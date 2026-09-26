@@ -160,3 +160,4 @@ ls --color=auto
 rmdir assests
 mkdir assets
 cd ./assets
+mkdir images
