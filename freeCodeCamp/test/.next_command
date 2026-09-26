@@ -164,3 +164,9 @@ mkdir images
 cd ./imahes
 cd ./images
 touch background.jpg
+__vsc_prompt_cmd_original
+cd ..
+cd ..
+cd ..
+cd ./client/assets/images
+cd ../../..
