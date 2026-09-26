@@ -215,3 +215,4 @@ ls --color=auto
 rm background.jpg header.png
 cd ..
 rmdir images
+ls --color=auto
