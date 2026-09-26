@@ -163,3 +163,4 @@ cd ./assets
 mkdir images
 cd ./imahes
 cd ./images
+touch background.jpg
