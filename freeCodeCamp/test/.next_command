@@ -203,3 +203,4 @@ cd ..
 mv header.pn./client/assets/images
 ls --color=auto
 mv header.png ./client/assets/images
+find -name header.png
