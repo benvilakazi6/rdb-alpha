@@ -76,3 +76,4 @@ cd /workspace/project
 ls --color=auto
 clear
 mkdir website
+ls --color=auto
