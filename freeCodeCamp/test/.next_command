@@ -227,3 +227,26 @@ mv freeCodeCamp.svg ./client/assets/icons
 find
 mkdir fonts ./client/assets
 mkdir ./client/assets/fonts
+touch roboto-bold.woff ./client/assets/fonts
+cd ./client/assets/fonts
+ls --color=auto
+touch roboto-bold.woff
+ls --color=auto
+rm roboto-bold.woff
+cd ../../../
+touch roboto-bold.woff /client/assets/fonts
+touch roboto-bold.woff ./client/assets/fonts
+touch roboto-bold.woff client/assets/fonts
+touch roboto-bold.woff client/assets/fonts
+touch roboto-bold.woff /client/assets/fonts
+ls --color=auto
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd fonts
+ls --color=auto
+pwd
+cd /workspace/project/website
+touch roboto-bold.woff /workspace/project/website/client/assets/fonts
+touch /workspace/project/website/client/assets/fonts/roboto-bold.woff
