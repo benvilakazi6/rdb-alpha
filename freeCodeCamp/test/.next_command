@@ -67,3 +67,7 @@ pwd
 ls --color=auto
 more
 more index.js
+cd /has
+cd has
+pwd
+cd ..
