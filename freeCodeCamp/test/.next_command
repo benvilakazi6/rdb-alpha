@@ -190,3 +190,16 @@ ls --color=auto
 cd ..
 ls --color=auto
 find -name images
+cd images
+mv header.png ./client/assets/images
+ls --color=auto
+touch header.png
+mv header.png ./client/assets/images
+find -name images
+mv header.png ../client/assets/images
+ls --color=auto
+touch header.png
+cd ..
+mv header.pn./client/assets/images
+ls --color=auto
+mv header.png ./client/assets/images
