@@ -250,3 +250,4 @@ pwd
 cd /workspace/project/website
 touch roboto-bold.woff /workspace/project/website/client/assets/fonts
 touch /workspace/project/website/client/assets/fonts/roboto-bold.woff
+touch /workspace/project/website/client/assets/fonts/roboto-light.woff
