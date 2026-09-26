@@ -155,3 +155,7 @@ find -name styles.css
 find -name src
 find
 cd ./client
+mkdir assests
+ls --color=auto
+rmdir assests
+mkdir assets
